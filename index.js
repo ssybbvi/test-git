@@ -1,5 +1,3 @@
 int
 one
-two
-three
-four
+senven
